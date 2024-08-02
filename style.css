@@ -1,1 +1,12 @@
-@import "bootstrap"
+@import "bootstrap";
+
+footer{
+background-color: #666;
+color:white;
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+height: 50px;
+line-height: 50px;
+}
